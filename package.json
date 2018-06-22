@@ -1,0 +1,23 @@
+{
+  "name": "cubeart",
+  "description": "Cube Art",
+  "keywords": [
+    "art"
+  ],
+  "author": "Joe Drago",
+  "version": "0.0.1",
+  "license": "BSL-1.0",
+  "scripts": {
+    "build": "cake build",
+    "watch": "cake watch",
+    "serve": "cake serve"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "coffee-script": "1.9.3",
+    "coffeeify": "^2.1.0",
+    "node-static": "^0.7.10",
+    "node-watch": "^0.4.1",
+    "uglifyify": "^3.0.4"
+  }
+}
