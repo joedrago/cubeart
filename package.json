@@ -18,6 +18,7 @@
     "coffeeify": "^2.1.0",
     "node-static": "^0.7.10",
     "node-watch": "^0.4.1",
+    "pako": "^1.0.6",
     "uglifyify": "^3.0.4"
   }
 }
