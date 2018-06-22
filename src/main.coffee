@@ -123,11 +123,11 @@ class CubeArt
 
   charToColor: (char) ->
     switch char
-      when 'r' then '#ff0000'
-      when 'g' then '#00ff00'
-      when 'b' then '#0000ff'
-      when 'y' then '#ffff00'
-      when 'o' then '#ff8800'
+      when 'r' then '#B71234'
+      when 'g' then '#009B48'
+      when 'b' then '#0046AD'
+      when 'y' then '#FFD500'
+      when 'o' then '#FF5800'
       when 'w' then '#ffffff'
       else '#000000'
 
